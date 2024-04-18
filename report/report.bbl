@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{SG}
+R.~Bhaskara, M.~Chiu, and A.~Bera.
+\newblock "sg-lstm: Social group lstm for robot navigation through dense crowds".
+\newblock {\em ArXiv}, abs/2303.04320, 2023.
+
+\bibitem{BadNet}
+T.~Gu, B.~Dolan-Gavitt, and S.~Garg.
+\newblock "badnet: Identifying vulnerabilities in the machine learning model supply chain".
+\newblock {\em ArXiv}, abs/1708.06733, 2019.
+
+\bibitem{ResNet}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock "deep residual learning for image recognition".
+\newblock {\em ArXiv}, abs/1512.03385, 2015.
+
+\bibitem{GAN}
+T.~S. Lembono, E.~Pignat, J.~Jankowski, and S.~Calinon.
+\newblock "learning constrained distributions of robot configurations with generative adversarial network".
+\newblock {\em ArXiv}, abs/2011.05717, 2021.
+
+\bibitem{review}
+Z.~C. Lipton, J.~Berkowitz, and C.~Elkan.
+\newblock "a critical review of recurrent neural networks for sequence learning".
+\newblock {\em ArXiv}, abs/1506.00019, 2015.
+
+\bibitem{SwipeBot}
+N.~Zherdev, M.~Kurenkov, K.~Belikova, and D.~Tsetserukou.
+\newblock "swipebot: Dnn-based autonomous robot navigation among movable obstacles in cluttered environments".
+\newblock {\em ArXiv}, abs/2305.04851, 2023.
+
+\end{thebibliography}
